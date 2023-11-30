@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Bits & Blogs Website is a feature-rich platform for reading and writing blog posts. Developed using HTML, CSS, Node.js, and MongoDB, this application offers an immersive and responsive user experience. The development process is comprehensively documented in a tutorial series covering installation, design structure, styles, layouts, responsive design, and various functionalities.
+The Bits & Blogs Website is a feature-rich platform for reading and writing blog posts. Developed using HTML, CSS, Node.js, and MongoDB, this application offers an immersive and responsive user experience.
 
 ## Features
 
